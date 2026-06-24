@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 State,City,Price_in_Lakhs,Size_in_SqFt,BHK,Property_Type,Furnished_Status,Price_per_SqFt
 New York,San Francisco,121.5,3638,2,Apartment,Furnished,43.96
 Illinois,New York,151.63,3560,5,Villa,Semi-Furnished,96.77
@@ -499,3 +500,506 @@ Florida,Austin,171.61,4019,2,Villa,Furnished,34.37
 California,New York,174.79,3689,3,Bungalow,Unfurnished,32.28
 California,Austin,144.59,662,1,Townhouse,Furnished,15.63
 California,San Francisco,169.03,1864,1,Bungalow,Semi-Furnished,51.3
+=======
+State,City,Price_in_Lakhs,Size_in_SqFt,BHK,Property_Type,Furnished_Status,Price_per_SqFt
+New York,San Francisco,121.5,3638,2,Apartment,Furnished,43.96
+Illinois,New York,151.63,3560,5,Villa,Semi-Furnished,96.77
+Florida,Tampa,92.02,3283,2,Villa,Unfurnished,18.04
+Illinois,Los Angeles,34.24,3887,1,Villa,Furnished,71.83
+Illinois,San Francisco,63.92,1213,5,Villa,Furnished,54.44
+Texas,Chicago,78.99,4463,2,Villa,Furnished,44.89
+Florida,Miami,132.72,4423,3,Apartment,Semi-Furnished,66.94
+Florida,Miami,118.45,631,1,Villa,Semi-Furnished,73.35
+Florida,Los Angeles,77.66,4216,1,Apartment,Unfurnished,10.39
+Illinois,New York,197.44,1079,1,Apartment,Semi-Furnished,25.03
+New York,New York,125.1,2008,3,Villa,Semi-Furnished,74.17
+Florida,Chicago,55.07,3845,3,Villa,Furnished,69.97
+Illinois,Los Angeles,29.34,1223,4,Bungalow,Furnished,96.94
+Texas,Miami,39.04,4180,2,Apartment,Furnished,78.49
+New York,New York,56.73,4244,4,Villa,Furnished,95.57
+Texas,Los Angeles,40.53,2783,2,Villa,Furnished,73.23
+New York,Austin,45.45,528,3,Villa,Furnished,36.82
+Illinois,New York,64.17,1791,3,Bungalow,Furnished,19.48
+California,San Francisco,42.94,3276,4,Bungalow,Unfurnished,80.36
+New York,Austin,180.39,4915,5,Townhouse,Unfurnished,67.97
+Texas,Tampa,25.24,3343,4,Apartment,Unfurnished,14.34
+Illinois,New York,109.66,1669,2,Townhouse,Unfurnished,42.4
+New York,Miami,87.98,3353,4,Villa,Furnished,96.11
+California,Houston,196.65,2929,1,Bungalow,Unfurnished,55.04
+California,Austin,31.29,4009,2,Bungalow,Furnished,48.95
+Florida,Tampa,85.59,981,2,Townhouse,Unfurnished,51.19
+Florida,Chicago,194.2,3924,5,Bungalow,Semi-Furnished,28.8
+Texas,Chicago,174.45,2935,3,Villa,Unfurnished,43.18
+New York,Miami,165.24,4833,2,Bungalow,Unfurnished,43.28
+New York,New York,59.0,2038,3,Townhouse,Furnished,14.71
+Florida,Los Angeles,42.47,3346,4,Villa,Unfurnished,79.08
+New York,New York,137.04,4694,1,Townhouse,Semi-Furnished,47.49
+New York,Miami,186.58,961,5,Bungalow,Furnished,84.0
+California,Chicago,115.78,4717,3,Townhouse,Furnished,86.53
+Florida,New York,118.61,3595,2,Townhouse,Unfurnished,29.08
+Illinois,Chicago,63.2,805,3,Apartment,Furnished,69.16
+Florida,Austin,156.2,1854,2,Bungalow,Furnished,52.51
+Illinois,Tampa,45.54,3686,3,Bungalow,Furnished,89.21
+California,Los Angeles,71.5,803,2,Townhouse,Furnished,29.42
+Texas,Austin,90.83,3119,4,Apartment,Furnished,71.0
+New York,Chicago,106.45,2056,2,Bungalow,Furnished,64.7
+California,Chicago,56.06,3294,2,Villa,Semi-Furnished,36.58
+New York,Houston,31.82,705,1,Townhouse,Unfurnished,22.29
+Texas,Houston,126.02,4421,2,Bungalow,Semi-Furnished,68.65
+Texas,Austin,64.84,4880,1,Villa,Furnished,76.47
+California,San Francisco,120.44,4859,5,Bungalow,Furnished,38.41
+Texas,Austin,39.33,3873,1,Villa,Unfurnished,68.03
+Illinois,Houston,101.42,1085,4,Townhouse,Semi-Furnished,45.56
+Texas,Chicago,111.19,3912,1,Bungalow,Unfurnished,74.19
+New York,Miami,19.85,610,5,Bungalow,Semi-Furnished,27.93
+New York,Austin,73.95,599,4,Apartment,Furnished,90.12
+New York,Chicago,35.54,1956,3,Townhouse,Unfurnished,35.87
+New York,Miami,22.04,2698,3,Villa,Unfurnished,43.1
+Illinois,Miami,198.09,3966,1,Bungalow,Furnished,15.23
+Florida,Houston,71.25,3574,1,Bungalow,Unfurnished,20.04
+California,Austin,163.88,2506,5,Villa,Semi-Furnished,56.43
+New York,New York,58.38,1731,5,Townhouse,Semi-Furnished,34.08
+Texas,Los Angeles,139.49,4987,2,Apartment,Semi-Furnished,85.19
+New York,Houston,154.44,2417,5,Apartment,Semi-Furnished,11.32
+Texas,Houston,123.17,2531,2,Bungalow,Furnished,44.12
+Texas,New York,99.6,1236,4,Villa,Unfurnished,40.36
+New York,Los Angeles,88.25,4076,1,Bungalow,Semi-Furnished,11.74
+Illinois,Chicago,76.28,3621,4,Villa,Furnished,21.19
+Texas,San Francisco,186.61,1493,5,Apartment,Unfurnished,47.23
+Texas,Austin,167.82,870,4,Townhouse,Unfurnished,54.36
+New York,San Francisco,193.36,3562,4,Villa,Furnished,46.39
+Texas,Chicago,33.62,3445,4,Apartment,Furnished,57.78
+Texas,Tampa,148.86,1729,5,Bungalow,Semi-Furnished,63.56
+New York,Houston,188.28,4778,4,Villa,Unfurnished,10.89
+New York,Los Angeles,44.43,1179,2,Townhouse,Unfurnished,51.77
+California,Houston,22.63,2445,5,Bungalow,Furnished,96.71
+Illinois,Miami,150.81,4746,4,Bungalow,Unfurnished,56.71
+Illinois,Houston,119.15,2388,5,Apartment,Semi-Furnished,70.98
+Texas,Houston,169.95,3373,3,Villa,Unfurnished,38.07
+Illinois,Chicago,36.56,2289,2,Bungalow,Furnished,79.66
+Texas,Chicago,161.1,1733,4,Townhouse,Furnished,79.56
+California,Chicago,48.31,4927,3,Villa,Semi-Furnished,56.92
+New York,San Francisco,41.09,2342,3,Townhouse,Semi-Furnished,97.84
+New York,Miami,41.21,4523,5,Bungalow,Unfurnished,21.3
+New York,Tampa,164.77,1534,3,Townhouse,Unfurnished,11.53
+Illinois,Tampa,136.39,1458,2,Apartment,Furnished,79.31
+California,Chicago,109.38,640,2,Townhouse,Semi-Furnished,82.64
+Illinois,Los Angeles,78.18,3432,1,Villa,Semi-Furnished,20.82
+Illinois,San Francisco,176.67,2158,2,Townhouse,Semi-Furnished,33.9
+California,New York,84.56,4389,3,Townhouse,Unfurnished,11.58
+California,Los Angeles,165.15,2629,2,Apartment,Semi-Furnished,36.4
+California,Austin,93.44,4856,5,Townhouse,Furnished,79.58
+California,Austin,81.62,1334,1,Townhouse,Furnished,56.62
+New York,Los Angeles,97.91,4408,3,Bungalow,Unfurnished,41.33
+Florida,Chicago,67.26,3994,1,Bungalow,Unfurnished,43.46
+Florida,New York,152.05,3969,3,Villa,Semi-Furnished,10.12
+California,New York,105.52,4301,5,Bungalow,Unfurnished,36.98
+Florida,San Francisco,54.12,3924,1,Bungalow,Furnished,68.18
+Florida,New York,180.92,3317,4,Bungalow,Semi-Furnished,97.68
+California,Austin,82.94,1090,3,Bungalow,Furnished,86.24
+Florida,Miami,113.28,646,4,Apartment,Semi-Furnished,12.12
+Illinois,Chicago,182.23,4643,1,Bungalow,Unfurnished,90.87
+Texas,New York,128.61,3274,4,Apartment,Semi-Furnished,80.49
+Texas,San Francisco,32.21,4084,4,Apartment,Semi-Furnished,80.23
+California,Austin,188.57,2666,1,Bungalow,Furnished,51.22
+New York,Miami,129.26,1027,5,Townhouse,Furnished,45.82
+California,Houston,73.63,1063,4,Apartment,Semi-Furnished,37.26
+New York,Houston,36.46,3585,4,Townhouse,Unfurnished,15.91
+Texas,Miami,160.86,2436,5,Townhouse,Unfurnished,30.54
+California,Austin,127.81,1402,4,Bungalow,Furnished,32.19
+Illinois,San Francisco,111.36,2712,4,Villa,Unfurnished,53.57
+Florida,Miami,179.84,788,4,Bungalow,Furnished,77.27
+New York,Chicago,159.83,3118,2,Villa,Unfurnished,52.64
+Florida,Chicago,38.82,1710,5,Villa,Semi-Furnished,15.21
+Florida,Houston,69.23,4089,4,Bungalow,Furnished,96.2
+California,New York,57.21,1896,5,Bungalow,Furnished,94.85
+Florida,San Francisco,151.35,2548,3,Villa,Semi-Furnished,80.67
+Illinois,Houston,16.37,552,3,Bungalow,Furnished,99.22
+Florida,New York,118.28,826,4,Villa,Unfurnished,59.0
+California,New York,154.87,2266,5,Townhouse,Unfurnished,96.65
+Illinois,Tampa,176.59,2659,5,Bungalow,Furnished,16.8
+Texas,Chicago,75.0,3200,5,Townhouse,Unfurnished,42.91
+Florida,Austin,166.04,1812,2,Apartment,Furnished,30.28
+California,Los Angeles,31.02,3627,3,Townhouse,Semi-Furnished,27.62
+Texas,Austin,170.83,4370,5,Townhouse,Furnished,22.67
+Texas,Los Angeles,34.22,4009,5,Villa,Semi-Furnished,66.02
+New York,Miami,85.48,678,2,Townhouse,Unfurnished,80.32
+Illinois,Chicago,161.49,2662,2,Bungalow,Semi-Furnished,62.05
+Florida,New York,38.48,972,5,Villa,Unfurnished,23.23
+California,San Francisco,53.56,1589,1,Apartment,Furnished,83.0
+New York,Los Angeles,147.23,4939,5,Bungalow,Unfurnished,67.24
+Illinois,Austin,146.81,1141,5,Apartment,Furnished,44.93
+New York,New York,131.82,2744,2,Townhouse,Furnished,70.67
+Illinois,Los Angeles,141.85,3281,2,Bungalow,Semi-Furnished,33.39
+Illinois,Los Angeles,113.12,3661,5,Bungalow,Semi-Furnished,41.07
+Florida,Tampa,57.84,3018,5,Apartment,Semi-Furnished,92.57
+Illinois,Los Angeles,75.68,543,5,Bungalow,Semi-Furnished,36.15
+New York,San Francisco,44.5,1969,2,Bungalow,Unfurnished,52.3
+Illinois,Chicago,182.61,2829,5,Bungalow,Unfurnished,90.11
+Florida,San Francisco,120.84,895,5,Townhouse,Unfurnished,73.69
+Florida,Houston,86.16,2077,4,Apartment,Furnished,15.6
+New York,New York,97.78,649,1,Bungalow,Unfurnished,23.26
+Texas,Chicago,189.98,853,3,Villa,Unfurnished,10.71
+Texas,Tampa,39.14,2286,1,Villa,Unfurnished,66.78
+Illinois,Chicago,121.38,1097,4,Villa,Semi-Furnished,50.29
+California,Chicago,106.12,3053,3,Villa,Unfurnished,22.08
+Illinois,Austin,126.18,3602,5,Townhouse,Furnished,96.21
+New York,Chicago,13.44,4102,4,Bungalow,Semi-Furnished,57.67
+New York,Tampa,175.7,1400,5,Apartment,Furnished,31.77
+New York,San Francisco,187.1,1253,2,Bungalow,Unfurnished,55.05
+New York,Chicago,117.38,970,4,Townhouse,Semi-Furnished,71.17
+New York,Miami,142.36,3363,2,Villa,Furnished,16.86
+Florida,New York,185.27,3679,4,Townhouse,Unfurnished,34.72
+Texas,Chicago,144.38,642,4,Bungalow,Furnished,82.63
+New York,New York,38.98,4712,2,Apartment,Furnished,51.37
+California,Miami,119.49,733,3,Townhouse,Furnished,59.19
+California,Miami,125.28,2935,1,Apartment,Unfurnished,48.95
+California,New York,90.58,3690,5,Townhouse,Unfurnished,13.95
+California,Los Angeles,149.92,4419,4,Apartment,Furnished,24.92
+Florida,Houston,187.53,3713,5,Apartment,Semi-Furnished,50.1
+California,Austin,185.86,4107,2,Villa,Semi-Furnished,28.83
+New York,Los Angeles,95.66,2027,5,Apartment,Unfurnished,14.5
+Illinois,Los Angeles,31.52,4166,2,Villa,Unfurnished,85.93
+California,San Francisco,197.12,860,5,Bungalow,Unfurnished,98.31
+Florida,Austin,169.39,4526,1,Bungalow,Unfurnished,81.38
+Florida,Austin,33.69,2964,1,Villa,Unfurnished,86.84
+California,Los Angeles,184.96,4177,1,Villa,Semi-Furnished,31.78
+Illinois,Chicago,175.28,2535,1,Townhouse,Unfurnished,96.46
+California,San Francisco,108.58,3396,1,Townhouse,Furnished,27.72
+Florida,San Francisco,122.34,2868,1,Townhouse,Furnished,95.63
+Texas,Miami,85.81,3792,2,Bungalow,Semi-Furnished,99.53
+New York,Tampa,20.4,867,4,Townhouse,Furnished,74.06
+Florida,Austin,73.69,771,5,Apartment,Semi-Furnished,98.3
+California,Los Angeles,162.54,1611,1,Apartment,Semi-Furnished,61.26
+New York,Miami,10.88,1217,2,Townhouse,Furnished,33.36
+California,New York,73.36,4423,2,Apartment,Unfurnished,49.33
+California,Houston,85.65,1486,2,Bungalow,Furnished,63.42
+Texas,Tampa,112.11,4891,4,Apartment,Furnished,16.58
+New York,Tampa,184.77,2016,5,Bungalow,Semi-Furnished,66.01
+New York,Tampa,75.81,1319,4,Villa,Furnished,98.31
+Texas,San Francisco,75.92,4053,3,Villa,Semi-Furnished,27.11
+Florida,New York,150.13,3464,2,Villa,Unfurnished,81.33
+California,Tampa,95.92,2741,3,Villa,Unfurnished,91.71
+Illinois,New York,52.67,2999,1,Apartment,Unfurnished,94.93
+California,Chicago,95.96,3736,1,Townhouse,Furnished,96.41
+California,Tampa,36.76,1528,4,Apartment,Semi-Furnished,56.93
+Florida,Houston,43.51,4983,5,Bungalow,Unfurnished,97.96
+California,New York,104.69,4886,3,Apartment,Semi-Furnished,78.16
+Texas,New York,89.6,3426,5,Apartment,Semi-Furnished,24.55
+Texas,Houston,183.82,1397,4,Bungalow,Unfurnished,52.92
+New York,Tampa,78.85,3561,1,Villa,Unfurnished,74.65
+Illinois,Houston,120.31,824,5,Villa,Semi-Furnished,32.26
+California,New York,130.13,637,5,Villa,Unfurnished,67.66
+California,Houston,12.49,1659,1,Townhouse,Semi-Furnished,69.99
+Florida,New York,136.07,2581,3,Bungalow,Semi-Furnished,24.64
+Texas,New York,43.83,4407,1,Bungalow,Unfurnished,60.86
+Illinois,Chicago,192.6,3772,5,Apartment,Furnished,79.45
+New York,Los Angeles,38.25,3842,3,Townhouse,Unfurnished,54.9
+Texas,New York,88.78,2414,3,Villa,Furnished,11.09
+New York,Tampa,26.22,2056,1,Townhouse,Semi-Furnished,10.81
+Florida,Miami,199.41,2169,5,Bungalow,Semi-Furnished,42.13
+Florida,San Francisco,105.42,4944,4,Bungalow,Furnished,93.36
+California,Austin,123.12,680,5,Apartment,Semi-Furnished,30.58
+Illinois,Los Angeles,22.74,4401,2,Apartment,Furnished,67.09
+New York,Los Angeles,152.49,3104,4,Bungalow,Furnished,29.99
+Texas,Los Angeles,49.88,2473,3,Villa,Semi-Furnished,38.95
+Florida,Chicago,180.63,3763,4,Villa,Furnished,86.32
+California,New York,48.98,2690,3,Townhouse,Unfurnished,75.6
+California,Chicago,46.23,4430,3,Bungalow,Unfurnished,18.59
+New York,New York,16.94,4553,4,Bungalow,Semi-Furnished,48.58
+Florida,Tampa,99.69,2397,3,Villa,Semi-Furnished,12.63
+Illinois,Chicago,117.32,1745,3,Villa,Furnished,53.28
+Florida,Chicago,22.48,3165,2,Bungalow,Furnished,69.62
+New York,San Francisco,157.35,4605,5,Apartment,Furnished,20.67
+New York,Miami,96.12,1447,5,Bungalow,Furnished,36.0
+Florida,Chicago,109.63,3303,2,Bungalow,Unfurnished,45.81
+New York,San Francisco,93.74,3342,4,Villa,Unfurnished,92.76
+Florida,Houston,86.14,3799,1,Villa,Semi-Furnished,99.39
+Texas,Miami,116.33,1092,1,Apartment,Furnished,14.04
+Florida,Tampa,39.5,3721,1,Apartment,Furnished,78.49
+Florida,Chicago,44.57,4590,2,Townhouse,Semi-Furnished,43.46
+New York,Austin,173.74,1308,2,Bungalow,Furnished,45.32
+New York,Los Angeles,189.76,1568,3,Villa,Furnished,77.88
+California,Houston,80.93,4871,1,Apartment,Furnished,92.66
+California,Houston,61.44,1314,4,Townhouse,Furnished,95.58
+Texas,Tampa,132.36,4344,4,Townhouse,Furnished,61.94
+California,San Francisco,87.66,2715,1,Villa,Semi-Furnished,42.14
+Florida,Houston,14.82,1612,1,Villa,Furnished,80.88
+New York,Miami,39.67,4418,1,Townhouse,Semi-Furnished,32.59
+California,Chicago,146.03,2503,2,Apartment,Furnished,60.77
+California,Chicago,135.2,2816,2,Townhouse,Unfurnished,42.27
+Texas,Austin,15.15,2116,2,Bungalow,Unfurnished,69.1
+Texas,Tampa,52.17,3168,5,Bungalow,Unfurnished,31.64
+Florida,Los Angeles,53.9,1235,4,Villa,Unfurnished,27.24
+New York,San Francisco,137.66,2259,4,Apartment,Semi-Furnished,92.64
+Texas,Los Angeles,13.75,4862,3,Apartment,Semi-Furnished,19.16
+California,Houston,29.78,1661,2,Bungalow,Furnished,55.54
+New York,Tampa,161.98,3455,5,Townhouse,Unfurnished,29.88
+New York,Austin,43.92,1963,5,Villa,Semi-Furnished,13.5
+California,Los Angeles,134.02,3980,4,Townhouse,Furnished,13.24
+Texas,Miami,55.25,1088,2,Townhouse,Furnished,25.77
+California,Chicago,28.89,4864,3,Townhouse,Semi-Furnished,88.01
+New York,Houston,56.2,2542,2,Apartment,Unfurnished,35.42
+Illinois,Austin,147.23,1562,1,Bungalow,Furnished,95.54
+Illinois,Los Angeles,172.58,830,2,Apartment,Unfurnished,62.35
+Florida,San Francisco,167.74,1263,1,Bungalow,Unfurnished,49.3
+California,Miami,85.46,2838,1,Villa,Unfurnished,62.21
+California,Miami,136.94,2016,3,Villa,Furnished,56.5
+Florida,Los Angeles,48.95,4229,4,Townhouse,Unfurnished,78.29
+Florida,Chicago,65.7,2438,2,Bungalow,Furnished,35.42
+Florida,Los Angeles,180.3,1619,1,Bungalow,Unfurnished,41.77
+New York,Houston,12.47,3277,2,Bungalow,Furnished,90.47
+California,Los Angeles,26.25,3680,4,Townhouse,Unfurnished,95.18
+New York,Miami,49.5,1251,4,Townhouse,Semi-Furnished,90.33
+Florida,Austin,15.04,1254,5,Villa,Unfurnished,47.75
+California,Los Angeles,44.47,665,4,Apartment,Unfurnished,80.23
+New York,Chicago,120.78,3813,3,Bungalow,Furnished,52.87
+New York,Tampa,90.07,3487,1,Bungalow,Furnished,54.78
+Florida,Austin,179.61,2635,5,Apartment,Unfurnished,28.42
+California,San Francisco,165.31,4298,3,Bungalow,Semi-Furnished,63.2
+Florida,New York,74.95,4125,2,Townhouse,Semi-Furnished,26.75
+California,Los Angeles,59.29,3134,1,Townhouse,Furnished,39.84
+Illinois,Chicago,82.14,4407,4,Bungalow,Semi-Furnished,86.95
+Texas,Austin,122.16,1426,1,Townhouse,Unfurnished,28.64
+Texas,Chicago,60.93,1003,2,Townhouse,Furnished,16.4
+Texas,San Francisco,128.59,1713,5,Bungalow,Unfurnished,16.21
+Florida,Miami,87.79,756,5,Villa,Furnished,94.67
+Illinois,Chicago,114.89,2890,5,Apartment,Furnished,55.62
+California,Austin,92.86,4714,4,Townhouse,Furnished,46.85
+New York,Chicago,65.95,677,3,Villa,Furnished,82.98
+California,Chicago,190.21,1049,3,Townhouse,Semi-Furnished,85.22
+New York,Chicago,155.09,2534,1,Townhouse,Unfurnished,39.9
+California,Houston,36.62,4702,4,Apartment,Unfurnished,72.43
+Illinois,Houston,175.01,1922,5,Townhouse,Unfurnished,79.4
+New York,Miami,102.61,2782,5,Apartment,Furnished,68.92
+Florida,Los Angeles,179.96,687,2,Apartment,Semi-Furnished,23.64
+California,Chicago,161.97,1167,2,Apartment,Unfurnished,88.83
+California,San Francisco,90.79,4939,5,Villa,Semi-Furnished,58.52
+New York,Los Angeles,14.27,4843,5,Bungalow,Furnished,35.42
+Florida,San Francisco,61.05,522,4,Villa,Unfurnished,48.27
+Florida,Los Angeles,112.91,4783,3,Bungalow,Semi-Furnished,13.38
+Illinois,Miami,130.36,3376,2,Bungalow,Furnished,21.51
+Florida,Chicago,59.0,4405,3,Apartment,Semi-Furnished,78.9
+Florida,Chicago,36.48,2546,4,Townhouse,Unfurnished,10.0
+Florida,New York,168.64,2820,5,Apartment,Unfurnished,47.49
+Texas,San Francisco,197.04,2699,3,Townhouse,Furnished,57.03
+Illinois,Los Angeles,109.88,3500,5,Bungalow,Furnished,14.92
+California,Los Angeles,42.62,1128,5,Apartment,Furnished,97.58
+New York,Tampa,61.74,634,1,Townhouse,Semi-Furnished,30.35
+California,Tampa,13.49,1885,3,Villa,Semi-Furnished,37.38
+Illinois,Houston,183.72,3671,3,Townhouse,Semi-Furnished,37.35
+New York,New York,32.37,1408,5,Apartment,Furnished,30.74
+Illinois,Austin,119.54,3530,4,Villa,Unfurnished,10.13
+Florida,Tampa,62.07,4864,1,Townhouse,Unfurnished,75.64
+New York,Austin,115.29,922,5,Townhouse,Semi-Furnished,97.02
+Florida,Houston,133.77,3526,2,Townhouse,Semi-Furnished,30.19
+California,Houston,167.65,2496,2,Townhouse,Unfurnished,69.67
+California,Houston,49.22,4406,1,Townhouse,Unfurnished,76.77
+New York,San Francisco,12.09,1297,4,Villa,Semi-Furnished,86.36
+New York,San Francisco,36.01,3616,5,Bungalow,Semi-Furnished,48.04
+Illinois,Miami,181.0,4271,3,Villa,Unfurnished,37.26
+Illinois,Miami,176.04,4750,1,Villa,Furnished,39.28
+Florida,Houston,123.51,3574,4,Villa,Semi-Furnished,74.14
+New York,New York,124.1,2737,3,Bungalow,Unfurnished,83.51
+California,Los Angeles,136.36,3280,2,Apartment,Unfurnished,26.35
+Illinois,San Francisco,43.32,4410,2,Bungalow,Unfurnished,43.38
+Illinois,New York,183.74,3067,3,Villa,Unfurnished,91.17
+California,Chicago,89.57,636,1,Townhouse,Furnished,82.6
+Illinois,San Francisco,82.8,4689,2,Townhouse,Unfurnished,98.64
+Florida,San Francisco,108.59,3602,5,Villa,Semi-Furnished,77.88
+New York,Miami,18.92,3544,3,Townhouse,Furnished,45.39
+California,Los Angeles,41.59,1470,3,Villa,Unfurnished,63.16
+New York,Los Angeles,150.23,3464,2,Townhouse,Furnished,69.49
+Illinois,Tampa,25.73,2272,1,Bungalow,Semi-Furnished,17.06
+Illinois,Austin,124.6,3430,5,Apartment,Unfurnished,59.0
+California,Austin,56.62,979,1,Apartment,Semi-Furnished,73.84
+Florida,Austin,83.97,3460,4,Bungalow,Unfurnished,25.06
+Texas,Austin,64.85,4997,4,Bungalow,Unfurnished,80.26
+California,Chicago,77.58,716,2,Villa,Unfurnished,62.54
+Texas,Chicago,146.62,4897,2,Villa,Unfurnished,95.7
+Texas,San Francisco,66.45,2331,2,Villa,Unfurnished,13.82
+Florida,Houston,117.62,4418,4,Townhouse,Furnished,33.88
+Texas,Miami,100.45,4020,1,Villa,Unfurnished,64.14
+Texas,Miami,136.1,3051,1,Bungalow,Unfurnished,36.69
+Florida,Austin,188.0,3823,2,Apartment,Furnished,74.3
+Texas,San Francisco,149.19,4453,5,Townhouse,Furnished,78.31
+Texas,Tampa,50.84,2318,1,Villa,Furnished,19.23
+Texas,New York,15.92,1971,4,Townhouse,Furnished,56.25
+California,Houston,59.83,3504,3,Townhouse,Furnished,55.8
+California,San Francisco,123.06,4135,3,Villa,Furnished,43.24
+California,Houston,19.77,3930,3,Townhouse,Unfurnished,93.96
+Florida,Houston,104.31,4090,5,Apartment,Unfurnished,84.48
+Illinois,Houston,123.4,2460,2,Bungalow,Semi-Furnished,72.75
+Texas,San Francisco,73.51,4180,4,Bungalow,Unfurnished,74.29
+Texas,Austin,156.47,1040,5,Apartment,Unfurnished,51.55
+Florida,Miami,30.25,2950,4,Townhouse,Furnished,92.89
+Texas,Miami,24.28,525,4,Villa,Furnished,72.51
+California,Austin,148.36,1960,2,Townhouse,Unfurnished,75.61
+Illinois,Houston,104.14,2149,3,Apartment,Semi-Furnished,87.55
+New York,New York,140.8,2282,2,Townhouse,Furnished,34.67
+Texas,Los Angeles,92.62,3629,5,Bungalow,Unfurnished,82.64
+California,San Francisco,56.82,2248,5,Townhouse,Unfurnished,27.57
+New York,Los Angeles,165.63,2519,5,Apartment,Semi-Furnished,41.08
+Illinois,Tampa,161.89,1568,2,Bungalow,Semi-Furnished,40.2
+New York,Austin,141.99,2179,4,Townhouse,Furnished,98.07
+California,New York,61.71,1522,4,Townhouse,Semi-Furnished,87.09
+New York,San Francisco,122.14,829,1,Bungalow,Unfurnished,73.11
+Florida,Austin,78.59,3215,5,Villa,Unfurnished,75.44
+New York,Houston,27.4,3506,4,Bungalow,Semi-Furnished,60.59
+Texas,Miami,184.29,3287,1,Villa,Semi-Furnished,95.24
+Texas,Los Angeles,36.0,2585,4,Apartment,Semi-Furnished,54.66
+Florida,Chicago,190.55,2209,5,Apartment,Semi-Furnished,44.25
+California,Chicago,94.74,4385,3,Bungalow,Furnished,24.67
+Texas,New York,45.18,2835,5,Bungalow,Semi-Furnished,80.76
+Illinois,Houston,112.96,2656,2,Apartment,Furnished,76.1
+Texas,Tampa,175.86,615,4,Villa,Unfurnished,44.59
+Texas,Los Angeles,149.12,2035,4,Apartment,Semi-Furnished,12.27
+California,Houston,163.25,2210,2,Bungalow,Furnished,85.51
+New York,Los Angeles,135.17,2294,2,Apartment,Semi-Furnished,11.03
+Texas,New York,141.53,3110,3,Bungalow,Unfurnished,73.33
+Florida,New York,171.35,2901,4,Bungalow,Unfurnished,97.32
+New York,Tampa,57.44,3235,4,Apartment,Unfurnished,49.39
+Illinois,Chicago,102.99,3941,3,Villa,Semi-Furnished,31.15
+California,Houston,52.03,4158,1,Townhouse,Semi-Furnished,73.44
+Illinois,San Francisco,197.66,3731,3,Apartment,Furnished,83.54
+New York,Chicago,189.37,4799,5,Townhouse,Unfurnished,59.18
+New York,Houston,17.49,582,4,Apartment,Semi-Furnished,97.03
+New York,Chicago,144.06,1381,2,Townhouse,Unfurnished,14.65
+Illinois,San Francisco,185.8,534,5,Villa,Unfurnished,55.43
+New York,Miami,44.31,3413,4,Villa,Furnished,74.66
+Illinois,Miami,117.91,4541,3,Apartment,Furnished,87.64
+New York,Tampa,183.94,1595,5,Bungalow,Furnished,26.13
+Florida,Miami,16.45,4671,4,Townhouse,Furnished,82.0
+New York,Miami,142.51,771,1,Bungalow,Unfurnished,59.74
+Illinois,Austin,66.5,4704,1,Bungalow,Furnished,45.69
+Texas,Los Angeles,185.64,2082,2,Bungalow,Furnished,21.85
+New York,Austin,194.5,956,4,Villa,Furnished,87.88
+Texas,Austin,189.41,2686,1,Apartment,Furnished,24.15
+Florida,Tampa,100.1,1655,3,Apartment,Unfurnished,37.88
+California,Austin,173.79,1781,4,Villa,Furnished,36.1
+Florida,Miami,170.46,1882,3,Villa,Unfurnished,88.43
+New York,San Francisco,70.63,4113,3,Apartment,Semi-Furnished,70.54
+Texas,Tampa,167.49,2926,1,Bungalow,Unfurnished,81.7
+Texas,Tampa,17.03,1900,4,Townhouse,Unfurnished,32.54
+Illinois,New York,123.29,3246,5,Townhouse,Furnished,66.24
+Texas,Tampa,53.7,3722,1,Townhouse,Semi-Furnished,61.46
+Illinois,New York,32.91,1726,1,Bungalow,Semi-Furnished,84.95
+California,Tampa,24.62,2360,4,Apartment,Semi-Furnished,91.55
+New York,Los Angeles,142.29,1048,4,Villa,Semi-Furnished,11.09
+Illinois,Miami,74.58,1315,3,Apartment,Unfurnished,70.66
+California,Tampa,147.71,3565,4,Bungalow,Semi-Furnished,14.67
+Texas,Miami,22.42,1316,3,Villa,Unfurnished,59.4
+Texas,Miami,69.91,2863,1,Bungalow,Unfurnished,35.89
+California,Chicago,112.5,3690,2,Townhouse,Unfurnished,37.61
+Texas,Tampa,160.24,980,5,Townhouse,Semi-Furnished,41.77
+California,Houston,70.56,3052,1,Bungalow,Furnished,65.92
+Illinois,Chicago,128.92,1654,4,Villa,Furnished,40.06
+Illinois,Houston,178.34,4833,5,Villa,Semi-Furnished,75.94
+California,Miami,127.01,2675,2,Apartment,Furnished,46.41
+Illinois,Miami,54.26,4126,2,Townhouse,Furnished,16.15
+Illinois,Chicago,14.64,2976,3,Apartment,Unfurnished,80.54
+Illinois,Chicago,175.32,695,5,Apartment,Unfurnished,35.72
+Florida,Houston,14.04,3349,3,Bungalow,Semi-Furnished,48.95
+New York,New York,176.19,4781,1,Bungalow,Semi-Furnished,71.69
+Texas,Houston,110.5,3207,5,Apartment,Furnished,39.92
+Florida,Chicago,188.42,4186,1,Townhouse,Unfurnished,15.09
+Illinois,San Francisco,161.77,4478,3,Bungalow,Semi-Furnished,43.65
+California,Chicago,199.61,1526,5,Apartment,Semi-Furnished,95.0
+Illinois,San Francisco,76.64,1454,3,Apartment,Semi-Furnished,67.76
+New York,Los Angeles,155.77,3249,5,Apartment,Semi-Furnished,70.43
+Illinois,Chicago,86.37,2349,3,Apartment,Semi-Furnished,66.91
+California,Los Angeles,101.18,4279,2,Apartment,Semi-Furnished,27.91
+New York,New York,129.23,4550,3,Apartment,Furnished,47.65
+Illinois,Houston,176.0,2090,2,Bungalow,Unfurnished,77.58
+New York,San Francisco,196.98,1565,3,Townhouse,Unfurnished,19.12
+Texas,Houston,155.97,4012,5,Apartment,Semi-Furnished,35.01
+Texas,Los Angeles,89.38,1736,5,Villa,Unfurnished,34.87
+Illinois,San Francisco,90.06,4201,5,Bungalow,Unfurnished,48.88
+New York,Houston,150.14,2406,4,Bungalow,Unfurnished,98.23
+California,Chicago,55.37,3503,1,Apartment,Semi-Furnished,16.08
+Illinois,Miami,30.99,929,5,Bungalow,Semi-Furnished,56.68
+Texas,Los Angeles,77.38,3307,2,Apartment,Unfurnished,26.14
+Texas,Houston,64.58,2532,5,Townhouse,Unfurnished,97.36
+Illinois,Los Angeles,66.3,3139,4,Townhouse,Semi-Furnished,20.2
+New York,Austin,54.39,1256,2,Bungalow,Furnished,46.32
+Texas,Los Angeles,18.0,3815,4,Bungalow,Unfurnished,76.41
+New York,San Francisco,13.4,4382,2,Villa,Furnished,73.41
+Texas,Austin,197.67,1475,3,Bungalow,Unfurnished,48.05
+Texas,Tampa,91.28,930,1,Villa,Furnished,41.19
+Florida,San Francisco,83.02,606,1,Townhouse,Furnished,45.79
+Texas,Miami,139.13,3388,4,Townhouse,Furnished,33.78
+California,Austin,51.47,3231,1,Apartment,Semi-Furnished,28.48
+Illinois,Tampa,190.49,2960,4,Townhouse,Furnished,53.47
+Illinois,Chicago,159.41,1543,4,Villa,Furnished,34.17
+New York,Los Angeles,26.99,2259,4,Bungalow,Furnished,35.87
+Texas,Houston,89.34,3175,1,Apartment,Unfurnished,69.11
+California,New York,177.03,2735,4,Villa,Furnished,97.17
+New York,Los Angeles,189.5,4945,1,Bungalow,Unfurnished,64.33
+Florida,Tampa,98.81,1113,4,Apartment,Furnished,16.93
+New York,Los Angeles,126.55,3628,5,Townhouse,Furnished,16.8
+New York,Miami,41.74,2319,4,Villa,Semi-Furnished,95.63
+Texas,Chicago,198.32,2426,2,Bungalow,Unfurnished,36.76
+Florida,New York,54.02,3729,4,Apartment,Furnished,18.29
+New York,Austin,189.12,3615,3,Apartment,Unfurnished,63.91
+California,Austin,133.43,4960,4,Townhouse,Unfurnished,66.13
+California,Austin,125.47,1077,2,Bungalow,Semi-Furnished,68.37
+Illinois,Tampa,107.41,968,2,Townhouse,Semi-Furnished,34.07
+Florida,San Francisco,53.83,3759,1,Townhouse,Semi-Furnished,11.36
+Florida,San Francisco,43.54,3102,5,Bungalow,Semi-Furnished,96.85
+Illinois,Houston,51.89,1733,4,Bungalow,Semi-Furnished,32.58
+New York,New York,45.42,857,1,Bungalow,Semi-Furnished,70.84
+Florida,Austin,158.12,885,5,Villa,Semi-Furnished,73.6
+California,San Francisco,76.52,4523,4,Bungalow,Semi-Furnished,64.9
+California,Tampa,20.99,1363,3,Apartment,Furnished,38.16
+Texas,Houston,194.13,1955,4,Townhouse,Unfurnished,34.4
+Florida,Chicago,177.92,1519,2,Villa,Semi-Furnished,63.79
+New York,Houston,186.27,2097,2,Bungalow,Semi-Furnished,87.95
+Illinois,San Francisco,199.03,812,3,Villa,Unfurnished,95.21
+Illinois,Miami,43.04,2835,1,Bungalow,Furnished,19.53
+New York,Tampa,85.29,804,5,Villa,Unfurnished,23.93
+Texas,Miami,154.07,4101,4,Townhouse,Unfurnished,95.03
+Illinois,Austin,142.24,1551,2,Townhouse,Semi-Furnished,76.29
+Florida,Miami,39.24,2930,1,Apartment,Unfurnished,89.47
+Texas,Austin,165.01,4460,3,Apartment,Unfurnished,28.24
+Florida,Austin,52.64,3428,2,Bungalow,Semi-Furnished,62.88
+California,San Francisco,52.53,2898,3,Townhouse,Semi-Furnished,73.1
+Texas,Miami,112.03,1959,4,Villa,Semi-Furnished,71.21
+Illinois,Austin,122.66,1998,5,Villa,Semi-Furnished,46.73
+Texas,New York,120.22,3512,2,Villa,Unfurnished,11.39
+Texas,Chicago,27.38,4973,2,Apartment,Unfurnished,62.46
+Texas,Houston,176.72,3478,4,Villa,Furnished,32.78
+Texas,Houston,60.46,3010,1,Apartment,Furnished,50.52
+Florida,San Francisco,34.61,3787,5,Apartment,Unfurnished,96.18
+California,Miami,178.86,2593,2,Bungalow,Furnished,45.91
+New York,Miami,191.57,770,5,Villa,Unfurnished,85.58
+Texas,Austin,173.8,3030,2,Villa,Furnished,26.97
+Illinois,Tampa,163.81,4809,5,Townhouse,Semi-Furnished,70.52
+Texas,Los Angeles,134.5,1288,3,Bungalow,Furnished,97.93
+Illinois,Austin,114.66,3605,2,Townhouse,Semi-Furnished,19.17
+Florida,Chicago,26.53,1404,5,Bungalow,Semi-Furnished,10.75
+Illinois,New York,87.61,2911,1,Villa,Semi-Furnished,49.02
+New York,Houston,80.81,935,3,Apartment,Semi-Furnished,18.34
+California,Austin,59.35,2526,3,Apartment,Furnished,77.35
+Illinois,Los Angeles,147.45,3902,1,Apartment,Unfurnished,92.31
+Illinois,Los Angeles,104.22,2064,5,Apartment,Semi-Furnished,49.06
+California,Austin,25.4,3492,4,Apartment,Furnished,33.28
+New York,San Francisco,51.83,4079,1,Townhouse,Semi-Furnished,49.1
+Texas,Houston,139.82,4672,5,Bungalow,Furnished,75.11
+Illinois,San Francisco,24.46,1555,1,Villa,Furnished,10.81
+California,New York,171.73,2296,1,Townhouse,Furnished,63.05
+Florida,Los Angeles,104.08,1185,2,Bungalow,Unfurnished,65.2
+California,Los Angeles,101.31,4966,5,Apartment,Furnished,67.39
+Florida,Chicago,122.56,4671,4,Bungalow,Furnished,31.78
+New York,New York,166.69,2929,2,Bungalow,Unfurnished,74.26
+Texas,Los Angeles,76.08,4289,1,Apartment,Unfurnished,18.23
+California,New York,138.82,2844,1,Apartment,Furnished,27.93
+Illinois,Houston,117.49,3306,1,Apartment,Unfurnished,88.97
+New York,Miami,60.74,901,5,Villa,Semi-Furnished,76.49
+California,Los Angeles,176.94,3898,5,Apartment,Semi-Furnished,11.24
+Illinois,Chicago,161.51,1074,2,Villa,Unfurnished,32.35
+California,Houston,135.11,4217,4,Apartment,Unfurnished,29.3
+Florida,Austin,171.61,4019,2,Villa,Furnished,34.37
+California,New York,174.79,3689,3,Bungalow,Unfurnished,32.28
+California,Austin,144.59,662,1,Townhouse,Furnished,15.63
+California,San Francisco,169.03,1864,1,Bungalow,Semi-Furnished,51.3
+>>>>>>> 298aab1dab58ffa300b8a284b34091357f1b16cd

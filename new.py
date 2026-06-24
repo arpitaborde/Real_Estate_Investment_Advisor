@@ -11,23 +11,12 @@ st.set_page_config(
     layout="wide"
 )
 
-from pathlib import Path
-
 # ---------------------------
 # LOAD DATA
 # ---------------------------
-from pathlib import Path
-
 @st.cache_data
 def load_data():
-    csv_path = Path(__file__).resolve().parent / "housing_cleaned.csv"
-    if not csv_path.exists():
-        st.error(
-            f"Data file not found: {csv_path}\n\n"
-            "Please add `housing_cleaned.csv` to the app folder or update the path in `new.py`."
-        )
-        st.stop()
-    return pd.read_csv(csv_path)
+    return pd.read_csv("housing_cleaned.csv")
 
 df = load_data()
 
