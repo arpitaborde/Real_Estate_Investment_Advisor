@@ -19,7 +19,7 @@ def load_data():
     return pd.read_csv("housing_cleaned.csv")
 
 df = load_data()
-
+st.write(df.columns.tolist())
 # ---------------------------
 # SIDEBAR
 # ---------------------------
