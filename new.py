@@ -1,3 +1,18 @@
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+# ---------------------------
+# PAGE CONFIG
+# ---------------------------
+st.set_page_config(
+    page_title="Real Estate Investment Advisor",
+    page_icon="🏠",
+    layout="wide"
+)
+
+@st.cache_data
+def load_data():
 # ---------------------------
 # LOAD DATA
 # ---------------------------
