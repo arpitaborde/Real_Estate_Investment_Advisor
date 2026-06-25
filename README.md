@@ -94,3 +94,6 @@ The dashboard enables users to explore property trends, compare locations, analy
 ## Project Outcome
 
 The project provides a centralized analytics platform that transforms raw real estate data into actionable insights, enabling smarter property investment and market analysis decisions.
+
+## Demo website
+https://realestateinvestmentadvisor-qxz6mhdyorn3pxwwcecr2o.streamlit.app/
